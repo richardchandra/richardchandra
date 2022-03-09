@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @richardchandra
-- 👀 I’m interested in Entrepreneur, Data, and many other topics
-- 🌱 I’m currently learning Data Science and Data Analytics
+- 🌱 I’m currently learning to be a Frontend Android Developer and some Data Science stuff
 - 📫 You can contact me on my e-mail <richardchandra99@gmail.com> or visit me on my LinkedIn page <https://www.linkedin.com/in/richard-chandra-346623149/>
 
 <!---
